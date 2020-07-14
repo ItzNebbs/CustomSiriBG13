@@ -1,0 +1,10 @@
+Package: xyz.tylerd3v.customsiribg13
+Name: CustomSiriBG13
+Depends: mobilesubstrate, firmware (>=13.0), preferenceloader, ws.hbang.common, xyz.tylerd3v.libtylerd3v
+Replaces: fun.tylerd3v.customsiribg
+Version: 1.1
+Architecture: iphoneos-arm
+Description: CustomSiriBG for iOS 13!
+Maintainer: TylerD3V
+Author: TylerD3V
+Section: Tweaks
